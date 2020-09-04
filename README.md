@@ -1,6 +1,6 @@
 # controlling-arduino-with-hand-signs-ns-
 
-Controlling arduino with hand signs:
+This is an example of deploying dl algorithms through arduino:
 
 Firstly download the dataset from Kaggle :https://www.kaggle.com/koryakinp/fingers
 This dataset contains hand signs which represents numbers from 0-6 that means we have 6 target variables
